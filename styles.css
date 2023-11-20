@@ -6,7 +6,7 @@ body {margin: 5px; max-width: auto; background-color: burlywood; border-bottom: 
 .letter {padding: 10px; }
 pre {overflow-x: auto; white-space: pre-wrap; word-wrap: break-word; }
 .speech {line-height: 40px; font-family: 'Noto Serif';font-size: larger; color: #290068;}
-.image {width: 100%; max-width: 300px; height: 500px; object-fit: cover; border-radius: 20px;}
+.image {width: 100%; max-width: 350px; height: 500px; object-fit: cover; border-radius: 20px;}
 .question {border: double 15px oldlace; width: 1250px; align-items: center; padding: 15px; margin:  5px auto; color: #290068; font-family: 'EB Garamond', serif; font-size: 27px;}
 .header2 {background: #290068; font-size: 20px; font-weight: lighter; text-align: center; text-transform: uppercase; padding: 32px; color: #fff; border-bottom: 4px solid #fdb347;}
 .end {margin: 10px; font-family: 'Roboto Condensed', sans-serif; color: rgb(36, 0, 108); font-size: 25px;}
